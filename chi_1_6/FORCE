@@ -1,0 +1,11 @@
+num_force     6
+lj   N  N 2.6 1.0 128.0 0.0
+lj   O  O 2.6 1.0 128.0 0.7167
+lj   N  O 2.6 1.0 128.0 0.0
+harm N N  128 1
+harm N O  128 1
+harm O O  128 1
+
+friction N  1
+friction O  1
+
